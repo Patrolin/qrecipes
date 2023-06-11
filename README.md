@@ -2,9 +2,8 @@
 
 ## units
 ```
-1g X ≈ 1ml X    // X = { water, milk, sugar }
-1kg/l = 1g/cm^3
 1cup ≈ 300ml
+1g X ≈ 1ml X    // X = { water, milk, sugar }    // 1kg/l = 1g/ml
 ```
 
 ## temperature
