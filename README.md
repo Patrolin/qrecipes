@@ -57,7 +57,7 @@ ice cream (honey variant) (untested)
   120ml greek yoghurt
   5 tsp honey
   .
-    Slice up and freeze? fruit
+    Slice up fruit
     Blend? everything together in a powerful mixer until smooth    // scrape down stuff from walls of mixer
     Freeze for 3h
 ```
