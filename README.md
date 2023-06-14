@@ -1,6 +1,6 @@
 # qrecipes
 
-## units
+## weight/volume
 ```
 1cup ≈ 300ml
 1g X ≈ 1ml X    // X = { water, milk, sugar }    // 1kg/l = 1g/ml
@@ -21,7 +21,7 @@ boiling point
 ```
 fruit juice
   300ml milk/water
-  some fruit (1 banana / 1.5 apples / ...)
+  100-200g fruit
   .
     Blend milk and fruit together    // blending removes fibers, so juice is unhealthy, allegedly: https://www.youtube.com/watch?v=DnEJrgc1BCk
 
@@ -32,7 +32,7 @@ popsicle
     Freeze popsicle mold for 3h
     Run hot water around the mold to remove the popsicle from the mold
 
-condensed milk
+700ml condensed milk
   500ml milk
   200ml sugar
   .
@@ -41,7 +41,7 @@ condensed milk
     Turn off heat and stir
     Refridgerate for 12h
 
-ice cream (condensed milk variant)
+1l ice cream (condensed milk variant)
   50ml juice
   1 condensed milk (700ml)
   250ml light whipping cream    // this name makes no sense in english, "smetana ke šlehání"
@@ -51,10 +51,10 @@ ice cream (condensed milk variant)
     Mix everything together and beat until smooth
     Freeze for 3h
 
-ice cream (honey variant) (untested)
-  450g fruit
-  120ml greek yoghurt
-  5 tsp honey
+500ml? ice cream (honey variant) (untested)
+  100-200g fruit
+  60ml greek yoghurt
+  2.5 tsp honey
   .
     Slice up fruit
     Blend? everything together in a powerful mixer until smooth    // scrape down stuff from walls of mixer
