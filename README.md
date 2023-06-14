@@ -4,6 +4,8 @@
 ```
 1cup ≈ 300ml
 1g X ≈ 1ml X    // X = { water, milk, sugar }    // 1kg/l = 1g/ml
+1 tsp ≈ 6ml
+1 tbsp ≈ 15ml
 ```
 
 ## temperature
@@ -54,7 +56,7 @@ popsicle
 500ml? ice cream (honey variant) (untested)
   100-200g fruit
   60ml greek yoghurt
-  2.5 tsp honey
+  40ml honey
   .
     Slice up fruit
     Blend? everything together in a powerful mixer until smooth    // scrape down stuff from walls of mixer
