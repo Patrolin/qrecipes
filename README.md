@@ -52,7 +52,7 @@ ice cream (condensed milk variant)
     Freeze for 3h
 
 ice cream (honey variant) (untested)
-  450g frozen fruit
+  450g fruit
   120ml greek yoghurt
   5 tsp honey
   .
