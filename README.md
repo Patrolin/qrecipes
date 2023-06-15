@@ -25,6 +25,7 @@ fruit juice
   300ml milk/water
   100-200g fruit
   .
+    Slice up fruit
     Blend milk and fruit together    // blending removes fibers, so juice is unhealthy, allegedly: https://www.youtube.com/watch?v=DnEJrgc1BCk
 
 popsicle
@@ -53,12 +54,12 @@ popsicle
     Mix everything together and beat until smooth
     Freeze for 3h
 
-500ml? ice cream (honey variant) (untested)
+500ml? ice cream (honey variant)
   100-200g fruit
-  60ml greek yoghurt
+  60ml greek yoghurt / creamy yoghurt
   40ml honey
   .
     Slice up fruit
-    Blend? everything together in a powerful mixer until smooth    // scrape down stuff from walls of mixer
+    Blend everything together until smooth    // (scrape down stuff from walls of mixer)
     Freeze for 3h
 ```
