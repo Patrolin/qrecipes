@@ -45,7 +45,7 @@ popsicle
     Refridgerate for 12h
 
 1l ice cream (condensed milk variant)
-  50ml juice
+  50ml fruit juice
   1 condensed milk (700ml)
   250ml light whipping cream    // this name makes no sense in english, "smetana ke šlehání"
   .
@@ -54,7 +54,7 @@ popsicle
     Mix everything together and beat until smooth
     Freeze for 3h
 
-500ml? ice cream (honey variant)
+200ml ice cream (honey variant)
   100-200g fruit
   60ml greek yoghurt / creamy yoghurt
   40ml honey
