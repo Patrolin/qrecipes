@@ -2,7 +2,7 @@
 
 ## weight/volume
 ```
-1cup ≈ 300ml
+1 cup ≈ 300ml
 1g X ≈ 1ml X    // X = { water, milk, sugar }    // 1kg/l = 1g/ml
 1 tsp ≈ 6ml
 1 tbsp ≈ 15ml
@@ -21,7 +21,7 @@ boiling point
 ## recipes
 
 ```
-fruit juice
+400ml fruit juice
   300ml milk/water
   100-200g fruit
   .
@@ -35,19 +35,20 @@ popsicle
     Freeze popsicle mold for 3h
     Run hot water around the mold to remove the popsicle from the mold
 
-700ml condensed milk
+600ml condensed milk    // untested
   500ml milk
-  200ml sugar
+  100ml sugar
   .
-    Mix milk and sugar in sauce pan on high heat    // but don't boil the milk (use a special milk pot?)
+    Bring milk to boiling point in sauce pan and stir    // (don't use a special milk pot)
+    Add sugar and stir until volume reduces to 1/3 (30 min)
     Keep mixture on low heat for 30 min
     Turn off heat and stir
     Refridgerate for 12h
 
 1l ice cream (condensed milk variant)
-  50ml fruit juice
-  1 condensed milk (700ml)
-  250ml light whipping cream    // this name makes no sense in english, "smetana ke šlehání"
+  200ml fruit juice
+  1 condensed milk (600ml)
+  200ml light whipping cream    // this name makes no sense in english, "smetana ke šlehání"
   .
     Mix juice and condensed milk
     Separately, beat the whipping cream for 30s
