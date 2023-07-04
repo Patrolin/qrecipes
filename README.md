@@ -64,3 +64,10 @@ popsicle
     Blend everything together until smooth    // (scrape down stuff from walls of mixer)
     Freeze for 3h
 ```
+
+# tea
+```
+chamomile + 1tsp honey
+red velvet x2
+probably anything + 1tsp honey
+```
