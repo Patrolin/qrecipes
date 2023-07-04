@@ -67,7 +67,8 @@ popsicle
 
 # tea
 ```
-chamomile + 1tsp honey
-red velvet x2
+Chamomile + 1tsp honey
+Red velvet x2
+Ceylon dimbula + 1tsp sugar
 probably anything + 1tsp honey
 ```
