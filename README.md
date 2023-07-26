@@ -67,8 +67,14 @@ popsicle
 
 # tea
 ```
-Chamomile + 1tsp honey
-Red velvet x2
-Ceylon dimbula + 1tsp sugar
-probably anything + 1tsp honey
++milk = less strong tea
++sugar/honey = more better tea
+tier list
+   S: 
+   A: (any + Red Velvet), Milk Oolong
+   B: Chamomile, Niwara Eliya, English
+   C: Ceylon Dimbula
+   D: 
+   E: 
+   F: Assam
 ```
