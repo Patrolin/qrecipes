@@ -70,11 +70,11 @@ popsicle
 +milk = less strong tea
 +sugar/honey = more better tea
 tier list
-   S: 
-   A: (any + Red Velvet), Milk Oolong
-   B: Chamomile, Niwara Eliya, English
+   S: Milk Oolong
+   A: (any + Red Velvet), English
+   B: Chamomile, Niwara Eliya
    C: Ceylon Dimbula
-   D: 
+   D: Pu-Erh
    E: 
    F: Assam
 ```
