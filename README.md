@@ -1,11 +1,13 @@
 # qrecipes
 
-## weight/volume
+## conversions
 ```
+1ml X ≈ 1g X   // X = { water, milk, sugar }    // 1kg/l = 1g/ml
+1ml honey ≈ 1.4g honey
 1 cup ≈ 300ml
-1g X ≈ 1ml X    // X = { water, milk, sugar }    // 1kg/l = 1g/ml
 1 tsp ≈ 6ml
 1 tbsp ≈ 15ml
+1x honey ≈ 1.5x sugar
 ```
 
 ## temperature
@@ -55,10 +57,10 @@ popsicle
     Mix everything together and beat until smooth
     Freeze for 3h
 
-200ml ice cream (honey variant)
+200ml ice cream (yoghurt variant)
   100-200g fruit
-  60ml greek yoghurt / creamy yoghurt
-  40ml honey
+  4 tbsp greek yoghurt / creamy yoghurt
+  1 tsp honey
   .
     Slice up fruit
     Blend everything together until smooth    // (scrape down stuff from walls of mixer)
@@ -70,7 +72,7 @@ popsicle
 +milk = less strong tea
 +sugar/honey = more better tea
 generic tea recipe:
-   2tsp tea + 300ml 100°C water for 5 min
+   2 tsp tea + 300ml 100°C water for 5 min
    Add 100ml cold tap water (20°C)
 tier list
    S: Milk Oolong
