@@ -57,9 +57,9 @@ popsicle
     Mix everything together and beat until smooth
     Freeze for 3h
 
-200ml ice cream (yoghurt variant)
-  100-200g fruit
-  4 tbsp greek yoghurt / creamy yoghurt
+250ml ice cream (yoghurt variant)
+  200g fruit
+  3 tbsp greek yoghurt / creamy yoghurt
   1 tsp honey
   .
     Slice up fruit
