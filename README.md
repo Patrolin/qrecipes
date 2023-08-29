@@ -76,7 +76,7 @@ generic tea recipe:
    Add 100ml cold tap water (20°C)
 tier list
    S: Milk Oolong
-   A: (Red Velvet + any tea), (English + milk)
+   A: (Red Velvet + any tea), (English + milk), Darjeeling
    B: Chamomile, Niwara Eliya
    C: Ceylon Dimbula, Rooibos
    D: Pu-Erh
