@@ -23,5 +23,5 @@ points
 
 ## sweetness
 ```
-1 honey ≈ 1.5 sugar
+2/3 honey ≈ 1 sugar
 ```

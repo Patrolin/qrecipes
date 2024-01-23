@@ -1,16 +1,32 @@
 ## tea
 ```
-+milk = less strong tea
++milk = less strong tea // necessary for spicy teas and such
 +sugar/honey = more better tea
-generic tea recipe:
-   2 tsp tea + 300ml 100°C water for 5 min
-   Add 100ml cold tap water (20°C)
-tier list
-   S: AHMAD Green Tea, (Chamomile + 2 tsp sugar)
-   A: Milk Oolong, (Red Velvet + any tea), (English + milk)
+raw tea recipe
+   2 tsp tea + 300ml hot water
+raw tier list
+   S: AHMAD Green Tea
+   A: Milk Oolong, Red Velvet
    B: Niwara Eliya, Darjeeling
    C: Ceylon Dimbula, Rooibos
-   D: Pu-Erh
+   D: Pu-Erh, Chamomile
    E:
    F: Assam
+better tea recipe:
+   2 tsp tea + 300ml hot water
+   + 2/3 tsp honey + 50-100ml milk
+better tier list
+   S:
+   A: Red Velvet
+   B: Assam, Chamomile
+todo // redo these with new recipe
+   AHMAD Green Tea
+   Niwara Eliya
+   Darjeeling
+   Ceylon Dimbula
+   Rooibos
+   Pu-Erh
+   Assam
+   Chamomile
+   English (which?)
 ```
