@@ -2,9 +2,10 @@
 ```
 +milk = less strong tea // necessary for spicy teas and such
 +sugar/honey = more better tea
-raw tea recipe
+straight tea recipe
    2 tsp tea + 300ml hot water
-raw tier list
+   remove tea leaves after 1 minute
+straight tier list
    S: AHMAD Green Tea
    A: Milk Oolong, Red Velvet
    B: Niwara Eliya, Darjeeling
@@ -14,10 +15,10 @@ raw tier list
    F: Assam
 better tea recipe:
    2 tsp tea + 300ml hot water
-   + 2/3 tsp honey + 50-100ml milk
+   + 2/3 tsp honey + 50ml milk
 better tier list
    S:
-   A: Red Velvet
+   A: Red Velvet, Pu-Erh
    B: Assam, Chamomile
 todo // redo these with new recipe
    AHMAD Green Tea
