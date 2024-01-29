@@ -18,16 +18,13 @@ better tea recipe:
    + 2/3 tsp honey + 50ml milk
 better tier list
    S:
-   A: Red Velvet, Pu-Erh
-   B: Assam, Chamomile
+   A: Pu-Erh
+   B: Assam, Red Velvet, Chamomile
 todo // redo these with new recipe
    AHMAD Green Tea
    Niwara Eliya
    Darjeeling
    Ceylon Dimbula
    Rooibos
-   Pu-Erh
-   Assam
-   Chamomile
    English (which?)
 ```
