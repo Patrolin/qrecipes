@@ -5,26 +5,21 @@
 straight tea recipe
    2 tsp tea + 300ml hot water
    remove tea leaves after 1 minute
-straight tier list
-   S: AHMAD Green Tea
-   A: Milk Oolong, Red Velvet
-   B: Niwara Eliya, Darjeeling
-   C: Ceylon Dimbula, Rooibos
-   D: Pu-Erh, Chamomile
-   E:
-   F: Assam
 better tea recipe:
    2 tsp tea + 300ml hot water
-   + 2/3 tsp honey + 50ml milk
-better tier list
-   S:
-   A: Pu-Erh
-   B: Assam, Red Velvet, Chamomile
-todo // redo these with new recipe
-   AHMAD Green Tea
-   Niwara Eliya
-   Darjeeling
-   Ceylon Dimbula
-   Rooibos
-   English (which?)
+   + 1/3 tsp honey + 50ml milk
+
+                        straight, milk & honey
+AHMAD Green Tea         A, ?
+Assam                   F, A
+Pu-Erh                  E, B
+Milk Oolong             B, ?
+Chamomile               E, C
+Red Velvet              C, C
+Niwara Eliya            C, ?
+Darjeeling              C, ?
+Ceylon Dimbula          D, ?
+Rooibos                 D, ?
+English (which?)        ?, ?
+TEABLOOM Golden Monkey  ?, ?
 ```
