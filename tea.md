@@ -7,7 +7,7 @@ straight tea recipe
    remove tea leaves after 1 minute
 better tea recipe:
    2 tsp tea + 400ml hot water
-   + 1/3 tsp honey + 33ml milk
+   + 1/3 tsp honey + (33ml whole milk / 66ml milk)
 
                         straight, milk & honey
 AHMAD Green Tea         A, ?

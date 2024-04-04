@@ -3,8 +3,8 @@
 milk fat
    0.5% skimmed milk
      1% low fat milk
-     2% milk
-  3.25% whole milk
+ 1.5-2% milk
+   3-4% whole milk
     30% whipping cream
     36% heavy cream
 ```
