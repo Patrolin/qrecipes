@@ -10,7 +10,8 @@ better tea recipe:
    + 1/3 tsp honey + (33ml whole milk / 66ml milk)
 
                         straight, milk & honey
-AHMAD Green Tea         A, ?
+TEEKANNE Zen Chai       S, S
+AHMAD Green Tea         A, A
 Assam                   F, A
 Pu-Erh                  E, B
 Matcha                  E, B
