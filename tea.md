@@ -1,6 +1,6 @@
 ## tea
 ```
-+milk = less strong tea // necessary for spicy teas and such
++milk = less strong tea // necessary for spicy teas
 +sugar/honey = more better tea
 straight tea recipe
    2 tsp tea + 400ml hot water
