@@ -4,10 +4,11 @@
 +sugar/honey = more better tea
 straight tea recipe
    2 tsp tea + 400ml hot water
-   remove tea leaves after 1 minute
+   remove tea leaves after 2-3 minutes
 better tea recipe:
    give tea leaves max room to float (use a tea infuser)
-   2 tsp tea + 400ml hot water
+   2 tsp tea + 300ml hot water
+   remove tea leaves after 1 minute
    + 1/3 tsp honey + (33ml whole milk / 66ml milk)
 
                   straight, milk & honey
