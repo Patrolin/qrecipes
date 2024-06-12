@@ -11,19 +11,27 @@ better tea recipe:
    remove tea leaves after 1 minute
    + 1/3 tsp honey + (33ml whole milk / 66ml milk)
 
-                  straight, milk & honey
-TEEKANNE Zen Chai        S, S
-AHMAD Green Tea          A, A
-Assam                    F, A
-Pu-Erh                   E, B
-Matcha                   E, B
-Milk Oolong              B, ?
-Chamomile                E, C
-Red Velvet               C, C
-Niwara Eliya             C, ?
-Darjeeling               C, ?
-Ceylon Dimbula           D, ?
-Rooibos                  D, ?
-English (which?)         ?, ?
-TEABLOOM Golden Monkey   ?, ?
+recyclability
+   S: paper/burnable
+   A: paper+plastic
+   B: paper+metal
+
+tea    straight    milk & honey    recyclability
+TEEKANNE Zen Chai               S, S, B
+KOUZELNÝ ČAJ zeleny caj citron  A, A, S
+PENNY citrus fruits             A, A, A
+TEEKANNE Garden Selection       A, A, B
+AHMAD Green Tea                 A, A
+Assam                           F, A
+Pu-Erh                          E, B
+Matcha                          E, B
+Milk Oolong                     B, ?
+Chamomile                       E, C
+Red Velvet                      C, C
+Niwara Eliya                    C, ?
+Darjeeling                      C, ?
+Ceylon Dimbula                  D, ?
+Rooibos                         D, ?
+English (which?)                ?, ?
+TEABLOOM Golden Monkey          ?, ?
 ```
