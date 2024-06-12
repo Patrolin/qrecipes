@@ -16,10 +16,10 @@ recyclability
    A: paper+plastic
    B: paper+metal
 
-tea    straight    milk & honey    recyclability
+tea                      straight, milk & honey, recyclability
 TEEKANNE Zen Chai               S, S, B
-KOUZELNÝ ČAJ zeleny caj citron  A, A, S
-PENNY citrus fruits             A, A, A
+KOUZELNÝ ČAJ Zelený čaj Citrón  A, A, S
+PENNY Citrus Fruits             A, A, A
 TEEKANNE Garden Selection       A, A, B
 AHMAD Green Tea                 A, A
 Assam                           F, A
