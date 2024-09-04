@@ -17,21 +17,23 @@ recyclability
    B: paper+metal
 
 tea                      straight, milk & honey, recyclability
-TEEKANNE Zen Chai               S, S, B
-KOUZELNÝ ČAJ Zelený čaj Citrón  A, A, S
-PENNY Citrus Fruits             A, A, A
-TEEKANNE Garden Selection       A, A, B
-AHMAD Green Tea                 A, A
-Assam                           F, A
-Pu-Erh                          E, B
-Matcha                          E, B
-Milk Oolong                     B, ?
-Chamomile                       E, C
-Red Velvet                      C, C
-Niwara Eliya                    C, ?
-Darjeeling                      C, ?
-Ceylon Dimbula                  D, ?
-Rooibos                         D, ?
+NOVY DEN Černý čaj s citrónem   S, A, S
+JEMČA Brusinka a pomeranč       A, A, S
+TEEKANNE Zen Chai               A, A, B
+KOUZELNÝ ČAJ Zelený čaj Citrón  B, B, S
+PENNY Citrus Fruits             B, B, A
+TEEKANNE Garden Selection       B, B, B
+AHMAD Green Tea                 B, B
+Assam                           F, B
+Pu-Erh                          F, C
+Matcha                          F, C
+Milk Oolong                     C, ?
+Chamomile                       F, D
+Red Velvet                      D, D
+Niwara Eliya                    D, ?
+Darjeeling                      D, ?
+Ceylon Dimbula                  E, ?
+Rooibos                         E, ?
 English (which?)                ?, ?
 TEABLOOM Golden Monkey          ?, ?
 ```
