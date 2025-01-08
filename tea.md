@@ -17,6 +17,7 @@ recyclability
    B: paper+metal
 
 tea                      straight, milk & honey, recyclability
+APOTHEKE ...                    S SS, B
 NOVY DEN Černý čaj s citrónem   S, A, S
 JEMČA Brusinka a pomeranč       A, A, S
 TEEKANNE Zen Chai               A, A, B
