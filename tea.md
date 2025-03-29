@@ -9,7 +9,15 @@ better tea recipe:
    give tea leaves max room to float (use a tea infuser)
    2 tsp tea + 300ml hot water
    remove tea leaves after 1 minute
-   + 1/3 tsp honey + (33ml whole milk / 66ml milk)
+   + 1/3 tsp whipped cinnamon honey + (33ml whole milk)?
+whipped cinnamon honey recipe:
+   in mixing bowl:
+      300 ml honey
+      1 tablespoon unsalted butter (softened)
+      1 teaspoon ground cinnamon
+      mix evenly
+      whip on high speed for 2-3 minutes
+   store in a glass jar in a frigde
 
 recyclability
    S: paper/burnable
