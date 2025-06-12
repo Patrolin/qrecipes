@@ -33,7 +33,7 @@ Steps to improve health:
     | red wine                                                                       |              |               |             |            | low       |                | low            |                 |                | low           |               |           |
     | honey                                                                          | low          |               |             |            |           |                |                |                 |                | low           |               |           |
 
-    - Na (sodium), Cl (chloride):
+    - Na (sodium, DV=2300 mg), Cl (chloride, DV=2300 mg):
         - not all salts contain both sodium and chloride, and it's unclear which products use which salts
         - so uhh, cook your own food with table salt (sodium chloride)?
 
