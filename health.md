@@ -33,6 +33,10 @@ Steps to improve health:
     | red wine                                                                       |              |               |             |            | low       |                | low            |                 |                | low           |               |           |
     | honey                                                                          | low          |               |             |            |           |                |                |                 |                | low           |               |           |
 
+    - Na (sodium), Cl (chloride):
+        - not all salts contain both sodium and chloride, and it's unclear which products use which salts
+        - so uhh, cook your own food with table salt (sodium chloride)?
+
     - TODO: check for better multivitamin sources (juice?, gummies?)
     - currently the strat is a low amount of milk (10ml) per day + sunlight + a DrWitt (relax) bottle
 7. If you want to lose some weight
@@ -48,7 +52,4 @@ Steps to improve health:
 - Fruit tangent:
     - nowadays fruit has been bred to be extremely sweet, too sweet one might say
     - for example, i would treat apples the same as candy - drink tons water with it
-    - however some fruits can be fine, like bananas (+ you get some vitamins)
-- Salt tangent:
-    - you might find yourself lacking salt in certain situations
-    - one small bag of salted chips (75g) is perfect, no more, no less
+    - however some fruits can be fine, like bananas (+ you get some micronutrients)
