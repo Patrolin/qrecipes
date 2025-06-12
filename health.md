@@ -11,8 +11,24 @@ Steps to improve health:
     - candy is an okay option
     - chips are an okay option if you don't eat too many
 6. Take some vitamin supplements - helps to improve your mood
-    - you can get some small bottled water with added vitamins, like DrWitt
-    - multivitamin juice also works, but it can be a bit sugary
+    | vitamins                          | A (...) | B1 (thiamine) | B2 (riboflavin) | B3 (niacin) | B5 (pantothenic acid) | B6 (pyridoxine) | B7 (biotin) | B9 (folates) | B12 (cobalamins) | C (ascorbates) | D (calciferols) | E (tocopherols) | K (not potassium) |
+    |-----------------------------------|---------|---------------|-----------------|-------------|-----------------------|-----------------|-------------|--------------|------------------|----------------|-----------------|-----------------|-------------------|
+    | sunlight                          |         |               |                 |             |                       |                 |             |              |                  |                | X               |                 |                   |
+    | milk                              | X       |               | X               | X           | X                     |                 |             |              | X                |                | X               |                 |                   |
+    | DrWitt&nbsp;(mango)               |         | X             |                 | X           |                       | X               |             |              | X                | X              |                 |                 |                   |
+    | DrWitt&nbsp;(relax)               |         | X             |                 | X           |                       | X               |             |              |                  |                |                 |                 |                   |
+    | Magnesia&nbsp;plus&nbsp;(revital) |         |               |                 | X           |                       |                 | X           |              |                  |                |                 | X               |                   |
+
+    - vitamins A, C, D, E support the immune system, though all are good to have
+
+    | elements/molecules        | β-carotene | borates (B<sub>n</sub>O<sub>m</sub>) | Ca (calcium) | Cu (copper) | I (iodine) | Fe (iron) | Mg (magnesium) | Mn (manganese) | Mo (molybdenum) | K (potassium) | Se (selenium) | Zn (zinc) |
+    |---------------------------|------------|--------------------------------------|--------------|-------------|------------|-----------|----------------|----------------|-----------------|---------------|---------------|-----------|
+    | milk                      |            |                                      | X            |             | X          |           |                |                |                 | X             | X             | X         |
+    | DrWitt (any)              |            |                                      | X            |             |            |           |                |                |                 | X             |               |           |
+    | (dark) chocolate          |            |                                      |              | X           |            | X         | X              | X              |                 |               |               |           |
+    | red wine                  |            |                                      |              |             |            | low       |                | low            |                 | low           |               |           |
+
+    - TODO: check for better multivitamin sources (juice?, gummies?), currently the strat is a very low amount of milk (5ml) per day + some of the other things, like DrWitt bottles
 7. If you want to lose some weight
     - you can try having some honey, instead of milk/yoghurt/chocolate/ice cream/chips
     - excercise helps, though you can do literally anything you want (cycling/walking/playing a physically intersive video game like Beat Saber or Ring Fit Adventure)
