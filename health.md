@@ -29,7 +29,7 @@ Steps to improve health:
     | (dark) chocolate          |            |                                      |              | X           |            | X         | X              | X              |                 |               |               |           |
     | red wine                  |            |                                      |              |             |            | low       |                | low            |                 | low           |               |           |
 
-    - TODO: check for better multivitamin sources (juice?, gummies?), currently the strat is a very low amount of milk (5ml) per day + some of the other things, like DrWitt bottles
+    - TODO: check for better multivitamin sources (juice?, gummies?), currently the strat is a low amount of milk (10ml) per day + sunlight + a DrWitt (relax) bottle
 7. If you want to lose some weight
     - you can try having some honey, instead of milk/yoghurt/chocolate/ice cream/chips
     - excercise helps, though you can do literally anything you want (cycling/walking/playing a physically intersive video game like Beat Saber or Ring Fit Adventure)
