@@ -1,12 +1,12 @@
 Steps to improve health:
-1. Set temperature to 22°C (±2°C) - necessary to be able to check anything else
+1. Set temperature to 20-22°C (minimum is 18-24.5°C) - necessary to be able to check anything else
     - you can check your body temperature by putting your dry palm around your (other) dry wrist
 2. Remove bits of food/beard hairs that are stuck in your mouth/nose - not doing so causes everything else to fail
 3. Breathe heavily - necessary to be able to check hydration
     - air quality doesn't matter too much, you can compensate for it by breathing more
 4. Drink water
 5. Eat some sugar
-    - tea with 1/3 tsp honey and without milk works well
+    - 1/3 tsp honey by itself (temperatures above 37°C destroy enzymes..)
     - a cola could work if you can find one with low caffeine and low but non-zero (4-8g/100ml?) sugar content
     - candy is an okay option
     - chips are an okay option if you don't eat too many
