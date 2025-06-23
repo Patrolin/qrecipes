@@ -1,6 +1,8 @@
 Steps to improve health:
 1. Set temperature to 20-22°C (minimum is 18-24.5°C) - necessary to be able to check anything else
-    - you can check your body temperature by putting your dry palm around your (other) dry wrist
+    - you can check your body temperature by putting your **dry** palm around your (other) **dry** wrist \
+      (it shouldn't feel hot or cold)
+    - TODO: figure out a way to measure air temperature vs room temperature?
 2. Remove bits of food/beard hairs that are stuck in your mouth/nose - not doing so causes everything else to fail
 3. Breathe heavily - necessary to be able to check hydration
     - air quality doesn't matter too much, you can compensate for it by breathing more
