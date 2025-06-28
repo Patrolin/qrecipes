@@ -43,10 +43,12 @@ Steps to improve health:
         - TODO: figure out which salts have both sodium and chloride
 
     - easy strat: a low amount of cow milk (10ml) per day + sunlight + a DrWitt (relax) bottle
-    - better strat: multivitamin/mineral pill + (phosphorus/potassium?) + (salt?)
-7. If you want to lose some weight
-    - you can try having some honey, instead of milk/yoghurt/chocolate/ice cream/chips
-    - excercise helps, though you can do literally anything you want (cycling/walking/playing a physically intersive video game like Beat Saber or Ring Fit Adventure)
+    - better strat: multivitamin/mineral pill
+7. If you want to lose some weight (also helps improve your mood)
+    - you can't skip breakfast, otherwise you won't have energy to do anything, but you can replace it with 1/3 tsp of honey
+    - you can skip lunch, which is an easy win
+    - probably don't skip dinner?
+    - excercise helps, though you can do literally anything you want (walking/cycling/playing a physically intersive video game like Beat Saber or Ring Fit Adventure)
 
 <br>
 <br>
