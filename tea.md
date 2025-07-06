@@ -17,7 +17,7 @@ whipped cinnamon honey recipe:
       1 teaspoon ground cinnamon
       mix evenly
       whip on high speed for 2-3 minutes
-   store in a glass jar in a frigde
+   store in a glass jar in a fridge
 
 recyclability
    S: paper/burnable
