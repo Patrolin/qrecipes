@@ -5,7 +5,7 @@ Steps to improve health:
     - TODO: figure out a way to measure air temperature vs room temperature?
 2. Remove bits of food/beard hairs that are stuck in your mouth/nose - not doing so causes everything else to fail
 3. Breathe heavily - necessary to be able to check hydration
-    - air quality doesn't matter too much, you can compensate for it by breathing more
+    - your body only detects CO<sub>2</sub> levels, not oxygen levels..
 4. Drink water
 5. Eat some sugar
     - 1/3 tsp honey by itself (temperatures above 37°C destroy enzymes..)
