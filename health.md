@@ -8,7 +8,7 @@ Steps to improve health:
     - your body only detects CO<sub>2</sub> levels, not oxygen levels..
 4. Drink water
 5. Eat some sugar
-    - 1/3 tsp honey by itself (temperatures above 37°C destroy enzymes..)
+    - 1/3 tsp honey by itself (temperatures above 38°C destroy enzymes..)
     - a cola could work if you can find one with low caffeine and low but non-zero (4-8g/100ml?) sugar content
     - candy is an okay option
     - chips are an okay option if you don't eat too many
