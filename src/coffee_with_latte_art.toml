@@ -16,6 +16,7 @@ tools = [
 [steps]
 1 = "Prepare an espresso shot and let it cool down."
 1.1 = "Note: Using instant coffee is not ideal, but it should work if you use less water than recommended by the packaging."
+1.2 = "Note: The espresso shot should have a distinct layer of white-orange foam above the black coffee."
 2 = "Fill the pitcher with milk up to the start of the spout. (halfway)"
 3 = "Heat the pitcher on a stove up to 60°C (min 55°C, max 65°C) and gently stir."
 4 = "Froth the milk"
