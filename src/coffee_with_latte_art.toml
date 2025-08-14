@@ -23,6 +23,9 @@ tools = [
 4 = "Froth the milk"
 4.1 = "Froth the milk just below the surface for 10s."
 4.2 = "Froth under the milk, just above the bottom of the pitcher for ≥10s."
+# -
 5 = "Tap the pitcher against the counter and swirl. Repeat 3 times."
 5.1 = "All remaining bubbles should be invisible."
-6 = "Pour the milk from the pitcher into the coffee, gradually moving closer towards the surface."
+6 = "Pour the 'steamed' milk from the pitcher into the coffee."
+6.1 = "Pour slowly at first from a higher distance."
+6.2 = "Then pour faster and closer to the surface."
