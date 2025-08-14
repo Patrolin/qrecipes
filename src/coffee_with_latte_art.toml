@@ -1,8 +1,8 @@
-# TODO: try with non-instant coffee instead
 tools = [
   "kettle",
   "milk pitcher ≥300ml",
-  "hand frother"
+  "hand frother",
+  "low (and wide) 200ml coffee cup"
 ]
 
 [inputs]
@@ -14,9 +14,10 @@ tools = [
 "coffee with latte art" = "180 ml"
 
 [steps]
-1 = "Prepare an espresso shot and let it cool down."
+1 = "Prepare an espresso shot."
 1.1 = "Note: Using instant coffee is not ideal, but it should work if you use less water than recommended by the packaging."
-1.2 = "Note: The espresso shot should have a distinct layer of white-orange foam above the black coffee."
+1.2 = "Note: If you have a proper espresso machine, you will get a distinct "crema" layer of white-orange foam above the black coffee. However, this is not necessary for latte art."
+# TODO: help
 2 = "Fill the pitcher with milk up to the start of the spout. (halfway)"
 3 = "Heat the pitcher on a stove up to 60°C (min 55°C, max 65°C) and gently stir."
 4 = "Froth the milk"
