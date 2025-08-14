@@ -1,3 +1,4 @@
+# TODO: try with non-instant coffee instead
 tools = [
   "kettle",
   "milk pitcher ≥300ml",
@@ -17,7 +18,9 @@ tools = [
 1.1 = "Note: Using instant coffee is not ideal, but it should work if you use less water than recommended by the packaging."
 2 = "Fill the pitcher with milk up to the start of the spout. (halfway)"
 3 = "Heat the pitcher on a stove up to 60°C (min 55°C, max 65°C) and gently stir."
-4 = "Froth the milk just below the surface for 10s."
-5 = "Froth under the milk, just above the bottom of the pitcher for ≥10s."
-6 = "Tap the pitcher against the counter and swirl. Repeat 3 times."
-7 = "Pour the milk from the pitcher into the coffee, gradually moving closer towards the surface."
+4 = "Froth the milk"
+4.1 = "Froth the milk just below the surface for 10s."
+4.2 = "Froth under the milk, just above the bottom of the pitcher for ≥10s."
+5 = "Tap the pitcher against the counter and swirl. Repeat 3 times."
+5.1 = "All remaining bubbles should be invisible."
+6 = "Pour the milk from the pitcher into the coffee, gradually moving closer towards the surface."
