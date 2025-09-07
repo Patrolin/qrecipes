@@ -8,7 +8,7 @@
 "(espresso) instant coffee with crema" = "1 tsp"
 "water"           = "60 ml"
 "whole (4%) milk, OR barista oat milk" = "180 ml"
-"300 ml mug"      = "1"
+"300 ml mug"      = ""
 
 [outputs]
 "coffee with latte art" = "294 ml"
