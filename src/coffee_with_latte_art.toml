@@ -1,9 +1,8 @@
-tools = [
-  "kettle",
-  "milk pitcher ≥300ml",
-  "french press",
-  "200ml ceramic mug",
-]
+[tools]
+"kettle" = ""
+"milk pitcher" = "≥300ml"
+"french press" = "≥240ml"
+"ceramic mug"  = "≥200ml"
 
 [inputs]
 "(espresso) instant coffee with crema" = "1 tsp"
@@ -23,9 +22,9 @@ tools = [
 2.2 = "Pump up and down until the volume increases by 25-30%"
 2.3 = "Then pump from the bottom to beneath the surface as much as you can"
 3 = "Make an 'espresso shot'"
-3.1 = "Put the instant coffee into a new cup"
+3.1 = "Put the instant coffee into a new mug"
 3.2 = "(You can add sugar here if you want)"
-3.3 = "Pour the hot water along the side of the cup"
+3.3 = "Pour the hot water along the side of the mug"
 4 = "Remove big bubbles from the milk"
 4.1 = "Pour the frothed milk back into the mug"
 4.2 = "Then pour it from the mug into the pitcher"
