@@ -6,7 +6,7 @@ type Recipe = {
   inputs: Record<string, string>;
   // NOTE: map[name]amount, first key is the name of the recipe
   outputs: Record<string, string>;
-  // NOTE: map[step_number]instruction, can have nested bullet points
+  // NOTE: map[step_number]instruction, can have nested bullet points (may contain syntax errors, like duplicate keys on accident)
   steps: Record<string, string>;
 }
 ```

@@ -1,0 +1,14 @@
+[inputs]
+120 ml mayonnaise
+2 tbsp ketchup
+1 tsp yellow mustard
+1/2 tsp onion powder
+1/2 tsp garlic powder
+1 tsp white vinegar OR 3 tsps apple vinegar
+Salt and pepper to taste
+
+[outputs]
+"burger sauce" = "160 ml"
+
+[steps]
+1 = "Mix all ingredients in a bowl"
