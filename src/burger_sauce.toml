@@ -1,10 +1,10 @@
 [inputs]
-"mayonnaise" = "120 ml"
-"ketchup" = "2 tbsp"
+"mayonnaise"      = "120 ml"
+"ketchup"         = "2 tbsp"
 "dijon OR yellow mustard" = "1 tsp"
-"onion powder" = "1/2 tsp"
-"garlic powder" = "1/2 tsp"
-"vinegar" = "1 tsp white vinegar, OR 3 tsp apple vinegar"
+"onion powder"    = "1/2 tsp"
+"garlic powder"   = "1/2 tsp"
+"vinegar"         = "1 tsp white vinegar, OR 3 tsp apple vinegar"
 "salt and pepper" = "to taste"
 
 [outputs]
