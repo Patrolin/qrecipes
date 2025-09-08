@@ -48,9 +48,17 @@ Steps to improve health:
     - Na (sodium, DV=2300 mg), Cl (chloride, DV=2300 mg):
         - TODO: figure out which salts have both sodium and chloride
 
-    - easy strat: a low amount of cow milk (10ml) per day + sunlight + a DrWitt (relax) bottle
+    - easy strat: a low amount of cow milk (15ml) per day + sunlight + a DrWitt (relax) bottle
     - better strat: multivitamin/mineral pill + sunlight
-7. If you want to lose some weight (also helps improve your mood)
+7. If you have a headache despite following the above steps, it's one of these 4 reasons
+    - not enough sugar
+    - not enough water
+    - not enough blood (get iron from (dark) chocolate or red wine)
+    - not enough salt
+
+    These all feel quite similar, which makes them hard to tell apart. \
+    I recommend checking them in the order listed above (if one doesn't help or makes things worse (sugar), you move onto the next one).
+8. If you want to lose some weight (also helps improve your mood)
     - you can't skip breakfast, otherwise you won't have energy to do anything
     - you can skip lunch, which is an easy win
     - probably don't skip dinner?
