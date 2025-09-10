@@ -9,7 +9,7 @@
 
 [outputs]
 "burger sauce" = "160 ml"
-"burger sauce.longetivity" = "4 weeks in a fridge (same as mayonnaise)"
+"burger sauce.longetivity" = "4 weeks in a fridge (same as the mayonnaise)"
 
 [steps]
 1 = "Mix all ingredients in a bowl"

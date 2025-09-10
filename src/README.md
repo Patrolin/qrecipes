@@ -1,3 +1,5 @@
+TODO: generate index.toml with `"path" = "Name"`
+
 Format for parsing the recipes:
 ```ts
 type Recipe = {
