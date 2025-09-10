@@ -25,3 +25,5 @@ points
 ```
 1 honey ≈ 1.5 sugar
 ```
+
+TODO: generate index.toml with `"path" = "Name"`
