@@ -1,6 +1,9 @@
 Format for parsing the recipes:
 ```ts
 type Recipe = {
+  /* NOTE: if the recipe is copy-pasted from a single source, this is a link to the source,
+    otherwise, it's cobbled together from multiple sources + my own experiments */
+  source?: string;
   /* NOTE: map[reusable_tool_name]void:
     "ceramic mug (≥200ml x2, ≥300ml x1)" = "" */
   tools: Record<string, string>;
