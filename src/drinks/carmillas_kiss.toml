@@ -1,0 +1,18 @@
+"source" = "https://morgandrinkscoffee.com/blogs/recipes-1/how-to-make-carmillas-kiss"
+
+[tools]
+# TODO
+
+[inputs]
+"56 ml cold brew" = ""
+"28 ml pineapple juice" = ""
+"21 ml lemon juice" = ""
+"14 ml honey" = ""
+"3 large blackberries" = ""
+"3 basil leaves" = ""
+
+[outputs]
+"carmilla's kiss" = "? ml"
+
+[steps]
+# TODO
