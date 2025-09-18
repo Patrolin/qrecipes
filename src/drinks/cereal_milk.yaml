@@ -1,0 +1,16 @@
+cereal milk:
+  source: https://morgandrinkscoffee.com/blogs/recipes-1/how-to-make-a-cereal-milk-latte
+  tools:
+    blender:
+    fine sieve:
+  inputs:
+    - 30g cereal
+    - 300g milk
+    - milk container (≥300ml)
+  outputs:
+    cereal milk: 300ml
+  steps:
+    1: Blend the ingredients in a blender for 30-40 seconds
+    2: Pour the milk through a fine sieve
+    2.1: NOTE: Most fine sieves are still very coarse, maybe use a fine tea filter instead?
+    3: Use it in place of regular milk

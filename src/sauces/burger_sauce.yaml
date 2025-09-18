@@ -1,0 +1,16 @@
+burger sauce:
+  tools:
+    spoon:
+  inputs:
+    - 120 ml mayonnaise
+    - 2 sp ketchup
+    - 1 tsp dijon or yellow mustard
+    - 1/2 tsp onion powder
+    - 1/2 tsp garlic powder
+    - 1 tsp white vinegar, or 3 tsp apple vinegar
+    - salt and pepper to taste
+  outputs:
+    burger sauce: 160 ml
+    burger sauce.longetivity: Store for up to 4 weeks in a fridge (same as the mayonnaise)
+  steps:
+    1: Mix all ingredients in a bowl

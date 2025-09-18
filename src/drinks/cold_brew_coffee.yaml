@@ -1,0 +1,27 @@
+cold brew:
+  tools:
+    water filter:
+  inputs:
+    - 10 g coarse-ground fruity coffee beans
+    - 90-100 ml cold tap water (not distilled water)
+    - wide glass jar (≥100ml)
+  outputs:
+    cold brew: 100 ml
+    cold brew.longetivity: Store for 1 week in a fridge
+  steps:
+    1: Filter the tap water
+    2: Add the ground coffee beans to the jar
+    3: Pour the filtered water into the jar
+    4: Mix and close the jar (or close and shake)
+    5: Wait 12-24 hours
+
+cold brew coffee:
+  inputs:
+    - 100 ml cold brew
+    - 100-200 ml milk or water
+    - coffee cup (≥300ml)
+  outputs:
+    cold brew coffee: 300 ml
+  steps:
+    1: Pour 100-200 ml milk or water into a cup
+    2: Pour 100 ml cold brew into the cup
