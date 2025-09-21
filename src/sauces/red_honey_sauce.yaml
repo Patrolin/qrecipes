@@ -1,0 +1,12 @@
+red honey sauce:
+  tools:
+    spoon:
+  inputs:
+    - 2 tbsp mayo
+    - 1 tbsp honey
+    - <1/4 tsp (sweet) paprika
+  outputs:
+    red honey sauce: 50 ml
+    red honey sauce.longetivity: 4 weeks in a fridge (same as the mayonnaise)
+  steps:
+    1: Mix all ingredients in a bowl
