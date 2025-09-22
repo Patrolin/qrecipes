@@ -14,6 +14,7 @@ main :: proc() {
 		recipe, ok := lib.read_entire_file(file_path)
 		assert(ok)
 
+		// find the name of the last subrecipe
 		i := 0
 		recipe_name := ""
 		for i < len(recipe) {
