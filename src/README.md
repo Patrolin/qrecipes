@@ -1,7 +1,8 @@
 Format for parsing the recipes:
 ```ts
 /* NOTE: Some recipes have multiple related subrecipes (e.g. cold brew and cold brew coffee),
-   these should be displayed together to reduce confusion. */
+   these should be displayed together to reduce confusion.
+   The name of the whole recipe is the name of the last subrecipe. */
 type Recipe = Record<string, Subrecipe>;
 type Subrecipe = {
   /* NOTE: If the recipe is copy-pasted from a single source, this is a link to the source,
