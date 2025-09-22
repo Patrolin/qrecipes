@@ -26,4 +26,4 @@ points
 1 honey ≈ 1.5 sugar
 ```
 
-TODO: generate index.toml with `"path" = "Name"`
+TODO: make yaml files for the old recipes
