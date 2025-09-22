@@ -7,6 +7,8 @@ type Subrecipe = {
   /* NOTE: If the recipe is copy-pasted from a single source, this is a link to the source,
     otherwise, it's cobbled together from multiple sources + my own experiments */
   source?: string;
+  /* NOTE: If there is a relevant video of someone making the recipe, this is a link to it. */
+  video?: string;
   /* NOTE: map[reusable_tool_name_and_amount]url:
     "spoon": null,
     "bartender set": "https://www.youtube.com/watch?v=_UFiGai-8RA", */
