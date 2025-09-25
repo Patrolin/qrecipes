@@ -1,21 +1,20 @@
-mojito:
+rum punch:
   tools:
     bartender set: https://www.youtube.com/watch?v=_UFiGai-8RA
   inputs:
-    - 5 mint leaves
-    - 1 tbsp (cane) sugar
-    - 1/2 lime
+    - 56 ml rum
+    - 56 ml 100% pineapple juice
+    - 28 ml 100% orange juice
+    - 28 ml lime juice
     - some crushed ice
-    - (28 ml white rum)
-    - 28-56 ml (lemon/lime) sparkling mineral water
     - glass (≥150ml)
   outputs:
-    mojito: 150 ml
+    rum punch: 150 ml
   steps:
     1: Cut the lime into slices and keep half a slice for garnish
     2: Cut the skin off each slice
-    3: Muddle the mint leaves, sugar and lime in a shaker
-    4: Add some crushed ice and white rum
+    3: Muddle all the ingredients in a shaker
+    4: Add some crushed ice
     5: Shake for 30s
     6: Double strain into a glass
     7: Fill the rest with sparkling water
