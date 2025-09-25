@@ -11,11 +11,9 @@ rum punch:
   outputs:
     rum punch: 150 ml
   steps:
-    1: Cut the lime into slices and keep half a slice for garnish
-    2: Cut the skin off each slice
-    3: Muddle all the ingredients in a shaker
-    4: Add some crushed ice
-    5: Shake for 30s
-    6: Double strain into a glass
-    7: Fill the rest with sparkling water
-    8: Garnish with lime (cut from corner to center)
+    1: Cut a half a slice of lime for garnish, and mince the rest
+    2: Muddle the ingredients in a shaker
+    3: Add some crushed ice and shake for 30s
+    4: Double strain into a glass
+    5: Fill the rest with sparkling water
+    6: Garnish with lime (cut from corner to center)

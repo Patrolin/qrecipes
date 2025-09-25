@@ -2,21 +2,20 @@ mojito:
   tools:
     bartender set: https://www.youtube.com/watch?v=_UFiGai-8RA
   inputs:
+    - 1/2 lime
     - 5 mint leaves
     - 1 tbsp (cane) sugar
-    - 1/2 lime
-    - some crushed ice
     - (28 ml white rum)
+    - some crushed ice
     - 28-56 ml (lemon/lime) sparkling mineral water
     - glass (≥150ml)
   outputs:
     mojito: 150 ml
   steps:
-    1: Cut the lime into slices and keep half a slice for garnish
-    2: Cut the skin off each slice
-    3: Muddle the mint leaves, sugar and lime in a shaker
-    4: Add some crushed ice and white rum
-    5: Shake for 30s
-    6: Double strain into a glass
-    7: Fill the rest with sparkling water
-    8: Garnish with lime (cut from corner to center)
+    1: Cut a half a slice of lime for garnish, and mince the rest
+    2: Muddle the lime, mint leaves and sugar in a shaker
+    3: Add the white rum
+    4: Add some crushed ice and shake for 30s
+    5: Double strain into a glass
+    6: Fill the rest with sparkling water
+    7: Garnish with lime (cut from corner to center)
