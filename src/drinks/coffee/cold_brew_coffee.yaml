@@ -2,8 +2,8 @@ cold brew:
   tools:
     water filter:
   inputs:
-    - 10 g coarse-ground fruity coffee beans
-    - 90-100 ml cold tap water (not distilled water)
+    - 200 ml cold tap water (not distilled water)
+    - 20 g coarse-ground fruity coffee beans / 200ml water
     - wide glass jar (≥100ml)
   outputs:
     cold brew: 100 ml
@@ -17,11 +17,11 @@ cold brew:
 
 cold brew coffee:
   inputs:
+    - 200 ml milk or water
     - 100 ml cold brew
-    - 100-200 ml milk or water
     - coffee cup (≥300ml)
   outputs:
     cold brew coffee: 300 ml
   steps:
-    1: Pour 100-200 ml milk or water into a cup
-    2: Pour 100 ml cold brew into the cup
+    1: Pour the milk or water into a cup
+    2: Pour the cold brew into the cup

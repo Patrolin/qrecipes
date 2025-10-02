@@ -1,0 +1,20 @@
+coffee:
+  tools:
+    coffee grinder: https://www.youtube.com/watch?v=EPbVUR6Y83k
+    coffee maker: https://www.youtube.com/watch?v=aidvrssMSGo
+  inputs:
+    - 200 ml water
+    - 11-13g coffee beans / 200ml water
+    - coffee cup (≥200ml)
+  outputs:
+    coffee: 200ml
+  steps:
+    1: Heat up water to exactly 100°C or 80°C
+    2: Grind your coffee beans to medium-fine? (finer = more bitter)
+    3: Assemble your coffee maker over the cup
+    4: Add the coffee beans and hot water
+    5: Wait 2 minutes
+    6: For Aeropress:
+    6.1: Swirl the coffee maker
+    6.2: Wait 30s, then gently press down
+    7: Disassemble and clean your coffee maker

@@ -1,16 +1,16 @@
-coffee with latte art:
+instant coffee with latte art:
   tools:
     kettle:
     milk pitcher (≥300ml):
     french press (≥240ml):
     ceramic mug (≥200ml):
   inputs:
-    - 1 tsp (espresso) instant coffee with crema
     - 60 ml water
+    - 1 tsp (espresso) instant coffee with crema
     - 180 ml whole (4%) milk, or barista oat milk
     - coffee cup (300ml)
   outputs:
-    coffee with latte art: 294 ml
+    instant coffee with latte art: 294 ml
   steps:
     1: Heat your ingredients
     1.1: Microwave the milk (in a ceramic mug) for 1 min
