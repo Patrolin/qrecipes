@@ -5,19 +5,20 @@ iced coffee:
   inputs:
     - 160 g ice
     - 240 g water
-    - 11-13g coffee beans / 200ml water (including ice)
+    - 13-15g coffee beans / 200ml water (including ice)
     - coffee cup (≥250ml)
   outputs:
     iced coffee: 250ml
   steps:
     1: Heat up water to exactly 100°C or 80°C
     2: Grind your coffee beans to medium-fine? (finer = more bitter)
-    3: Assemble your coffee maker over the cup
-    4: Add the coffee beans and hot water
-    5: Wait 2 minutes
-    6: For Aeropress:
-    6.1: Swirl the coffee maker
-    6.2: Wait 30s, then gently press down
-    7: Disassemble and clean your coffee maker
-    8: Swirl the coffee to melt the ice
-    9: (Serve into a cup with fresh ice)
+    3: Add ice to cup
+    4: Assemble your coffee maker over the cup
+    5: Add the coffee beans and hot water
+    6: Wait 2 minutes
+    7: For Aeropress:
+    8.1: Swirl the coffee maker
+    9.2: Wait 30s, then gently press down
+    10: Disassemble and clean your coffee maker
+    11: Swirl the coffee to melt the ice
+    12: (Serve into a cup with fresh ice)
