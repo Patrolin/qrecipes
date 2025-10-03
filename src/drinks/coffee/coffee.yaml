@@ -13,6 +13,7 @@ coffee:
     2: Grind your coffee beans to medium-fine? (finer = more bitter)
     3: Assemble your coffee maker over the cup
     4: Add the coffee beans and hot water
+    4.1: For Aeropress: Seal the chamber
     5: Wait 2 minutes
     6: For Aeropress:
     6.1: Swirl the coffee maker
