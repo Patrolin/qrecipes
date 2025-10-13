@@ -50,7 +50,8 @@ Steps to improve health:
 
     - easy strat: a low amount of cow milk (15ml) per day + sunlight + a DrWitt (relax) bottle
     - better strat: multivitamin/mineral pill + sunlight
-7. If you have a headache despite following the above steps, it's one of these 4 reasons
+7. If you have a headache despite following the above steps, it's one of these reasons
+    - too much heat
     - not enough sugar
     - not enough water
     - not enough blood (get iron from (dark) chocolate or red wine)
