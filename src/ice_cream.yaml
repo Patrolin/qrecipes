@@ -1,0 +1,16 @@
+ice cream:
+  tools:
+    ice cream maker:
+  inputs:
+    - 280 ml greek yogurt
+    - 70 ml honey
+    - 1/2 tsp vanilla powder or extract
+    - flavor of your choice
+  outputs:
+    ice cream: 350 ml
+    ice cream.longetivity: Store in a freezer
+  steps:
+    1: Open greek yogurt and let it sit for 10 min to reduce tangy taste
+    2: Mix all ingredients in a bowl to create the base
+    2.1: The vanilla will also reduce the tangy taste
+    3: Use ice cream maker (or spend 4h chilling and mixing it yourself...)
