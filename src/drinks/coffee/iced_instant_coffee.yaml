@@ -1,0 +1,16 @@
+iced instant coffee:
+  tools:
+    hand frother:
+  inputs:
+    - 1 tsp instant coffee
+    - 1/2 tsp (brown) sugar
+    - 20 ml water
+    - some ice
+    - 200 ml milk
+    - coffee cup (≥250ml)
+  outputs:
+    iced instant coffee: 250ml
+  steps:
+    1: Add instant coffee, sugar and water to a cup
+    2: Whip the mixture into a foam
+    3: Add ice and milk
