@@ -2,7 +2,7 @@ Steps to improve health:
 1. Set temperature to 20-22°C (minimum is 18-24.5°C) - necessary to be able to check anything else
     - you can check your body temperature by putting your **dry** palm around your (other) **dry** wrist \
       (it shouldn't feel hot or cold)
-    - TODO: figure out a way to measure air temperature vs room temperature?
+    - TODO: figure out a way to measure air temperature vs room temperature
 2. Remove bits of food/beard hairs that are stuck in your mouth/nose - not doing so causes everything else to fail
 3. Breathe heavily - necessary to be able to check hydration
     - your body only detects CO<sub>2</sub> levels, not oxygen levels..
@@ -52,6 +52,7 @@ Steps to improve health:
     - better strat: multivitamin/mineral pill + sunlight
 7. If you have a headache despite following the above steps, it's one of these reasons
     - too much heat
+    - not enough heat (low air temperature)
     - not enough sugar
     - not enough water
     - not enough blood (get iron from (dark) chocolate or red wine)
