@@ -7,9 +7,9 @@ lemon basil spritzer:
     - 2 tbsp honey
     - some ice
     - 180 ml (lemon/lime) sparkling mineral water
-    - 2x glass (≥200ml)
+    - 2x glass (≥150ml)
   outputs:
-    lemon basil spritzer: 400 ml
+    lemon basil spritzer: 300 ml
   steps:
     # TODO: maybe we should just to the mojito procedure?
     1: Cut half a slice of lemon for garnish, and mince the rest
