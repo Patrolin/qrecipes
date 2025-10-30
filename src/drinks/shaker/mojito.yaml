@@ -2,15 +2,14 @@ mojito:
   tools:
     bartender set: https://www.youtube.com/watch?v=_UFiGai-8RA
   inputs:
-    - 1/2 lime, or 1/4 lime + 1/2 teaspoon pineapple
+    - 1/2 lime, OR 1/4 lime + 1/2 teaspoon pineapple
     - (5 fresh mint leaves)
     - 1 tbsp (cane) sugar
     - (28 ml white rum)
     - some crushed ice
     - 28-56 ml (lemon/lime) sparkling mineral water
+  serving:
     - glass (≥150ml)
-  outputs:
-    mojito: 150 ml
   steps:
     1: Cut half a slice of lime for garnish, and mince the rest
     2: Muddle the lime, mint leaves and sugar in a shaker

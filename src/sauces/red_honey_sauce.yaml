@@ -5,8 +5,8 @@ red honey sauce:
     - 2 tbsp mayo
     - 1 tbsp honey
     - <1/4 tsp (sweet) paprika
-  outputs:
-    red honey sauce: 50 ml
-    red honey sauce.longetivity: 4 weeks in a fridge (same as the mayonnaise)
+  serving:
+    - glass jar (≥50ml)
+  longetivity: 4 weeks in a fridge (same as the mayonnaise)
   steps:
     1: Mix all ingredients in a bowl

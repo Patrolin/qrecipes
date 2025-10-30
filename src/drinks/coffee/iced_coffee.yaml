@@ -3,12 +3,11 @@ iced coffee:
     coffee grinder: https://www.youtube.com/watch?v=EPbVUR6Y83k
     coffee maker: https://www.youtube.com/watch?v=aidvrssMSGo
   inputs:
-    - 160 g ice
-    - 240 g water
+    - 4 parts ice
+    - 6 parts water
     - 13-15g coffee beans / 200ml water (including ice)
-    - coffee cup (≥250ml)
-  outputs:
-    iced coffee: 250ml
+  serving:
+    - coffee cup (≥240ml)
   steps:
     1: Heat up water to exactly 100°C or 80°C
     2: Grind your coffee beans to medium-fine? (finer = more bitter)

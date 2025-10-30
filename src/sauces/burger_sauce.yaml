@@ -9,8 +9,8 @@ burger sauce:
     - 1 tsp dijon or yellow mustard
     - 1 tsp white vinegar, or 3 tsp apple vinegar
     - salt and pepper to taste
-  outputs:
-    burger sauce: 160 ml
-    burger sauce.longetivity: Store for up to 4 weeks in a fridge (same as the mayonnaise)
+  serving:
+    - glass jar (≥160ml)
+  longetivity: Store for up to 4 weeks in a fridge (same as the mayonnaise)
   steps:
     1: Mix all ingredients in a bowl

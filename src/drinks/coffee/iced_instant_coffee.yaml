@@ -7,9 +7,8 @@ iced instant coffee:
     - 20 ml water
     - some ice
     - 200 ml milk
-    - coffee cup (≥250ml)
-  outputs:
-    iced instant coffee: 250ml
+  serving:
+    - coffee cup (≥240ml)
   steps:
     1: Add instant coffee, sugar and water to a cup
     2: Whip the mixture into a foam

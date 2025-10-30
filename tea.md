@@ -11,7 +11,7 @@ better tea recipe:
    remove tea leaves after 1 minute
    + 1/3 tsp whipped cinnamon honey + (10ml whole milk)?
 cinnamon honey tea recipe:
-   250 ml warm water // NOTE: ideally would be <40°C to preserve the health benefits of honey
+   240 ml warm water // NOTE: ideally would be <40°C to preserve the health benefits of honey
    a tea bag or w/e
    1 tbsp honey
    1/2 tsp cinnamon

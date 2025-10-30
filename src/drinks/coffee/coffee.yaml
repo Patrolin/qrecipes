@@ -5,9 +5,8 @@ coffee:
   inputs:
     - 200 ml water
     - 11-13g coffee beans / 200ml water
+  serving:
     - coffee cup (≥200ml)
-  outputs:
-    coffee: 200ml
   steps:
     1: Heat up water to exactly 100°C or 80°C
     2: Grind your coffee beans to medium-fine? (finer = more bitter)

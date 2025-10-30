@@ -15,10 +15,11 @@ type Subrecipe = {
   /* NOTE: []input_name_and_amount:
     ["60 ml water", "180 ml whole (4%) milk, or barista oat milk"] */
   inputs: string[];
-  /* NOTE: map[output_name]amount, the first key is the name of the recipe, the ".longetivity" suffix gives shelf life of each product (when present):
-    "burger sauce": "160 ml",
-    "burger sauce.longetivity": "Store for up to 4 weeks in a fridge (same as the mayonnaise)", */
-  outputs: Record<string, string>;
+  /* NOTE: []container_name_and_amount:
+    ["2x glass (≥150ml)"] */
+  serving: string[];
+  /* Shelf life of the product (if present) */
+  longetivity?: string;
   /* NOTE: map[step_number]instruction, can have nested bullet points (may contain syntax errors, like duplicate keys on accident) */
   steps: Record<string, string>;
 }
