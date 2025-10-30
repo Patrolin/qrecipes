@@ -6,8 +6,7 @@ cereal milk:
   inputs:
     - .1 part cereal
     - 1 part milk
-  serving:
-    - milk container (1.1 parts)
+  serving: milk container (1.1 parts)
   steps:
     1: Blend the ingredients in a blender for 30-40 seconds
     2: Pour the milk through a fine sieve

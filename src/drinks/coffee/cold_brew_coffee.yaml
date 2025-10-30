@@ -4,8 +4,7 @@ cold brew:
   inputs:
     - 200 ml cold tap water (not distilled water)
     - 20 g coarse-ground fruity coffee beans / 200ml water
-  serving:
-    - wide glass jar (≥100ml)
+  serving: wide glass jar (≥100ml)
   longetivity: Store for 1 week in a fridge
   steps:
     1: Filter the tap water
@@ -18,8 +17,7 @@ cold brew coffee:
   inputs:
     - 160 ml milk or water
     - 80 ml cold brew
-  serving:
-    - coffee cup (≥240ml)
+  serving: coffee cup (≥240ml)
   steps:
     1: Pour the milk or water into a cup
     2: Pour the cold brew into the cup
