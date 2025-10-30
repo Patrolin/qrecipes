@@ -1,0 +1,20 @@
+lemon basil spritzer:
+  tools:
+    bartender set: https://www.youtube.com/watch?v=_UFiGai-8RA
+  inputs:
+    - 1/2 lemon
+    - (3 fresh basil leaves)
+    - 2 tbsp honey
+    - some ice
+    - 180 ml (lemon/lime) sparkling mineral water
+    - 2x glass (≥200ml)
+  outputs:
+    lemon basil spritzer: 400 ml
+  steps:
+    # TODO: maybe we should just to the mojito procedure?
+    1: Cut half a slice of lemon for garnish, and mince the rest
+    2: Muddle the lemon and basil leaves in a shaker
+    3: Add some ice, the honey and sparkling water
+    4: Shake for 15s
+    5: Double strain into a glass
+    6: Garnish with lemon (angle and cut vertically)

@@ -27,5 +27,5 @@ type Subrecipe = {
 TODO: make a cooking calculator
 - compute ratios ([720, 420] -> 1.5:1)
 - convert units
-| 1 ml | 1 tsp | 1 tbsp | 1 cup |
-| ~1 g | 5 g   | 15 g   | 240 g |
+| 1 ml | 1 tsp | 1 tbsp | 1 cup  |
+| ~1 g | 4 ml  | 12 ml  | 240 ml |
