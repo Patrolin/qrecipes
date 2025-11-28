@@ -1,0 +1,12 @@
+nutella banana smoothie:
+  tools:
+    vacuum blender:
+  inputs:
+    - 240 ml milk
+    - 1 banana
+    - 1 tbsp nutella (but NOT the "nutella" brand)
+  serving: cup (≥240ml)
+  steps:
+    1: Add the ingredients to the blender
+    2: Vacuum the air out
+    3: Run the blender

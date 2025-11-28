@@ -1,0 +1,11 @@
+smoothie:
+  tools:
+    vacuum blender:
+  inputs:
+    - 240 ml milk
+    - any fruit
+  serving: 1-4x cup (≥150ml)
+  steps:
+    1: Add the ingredients to the blender
+    2: Vacuum the air out
+    3: Run the blender
