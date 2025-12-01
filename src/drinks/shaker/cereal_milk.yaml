@@ -4,7 +4,7 @@ cereal milk:
     blender:
     fine sieve:
   inputs:
-    - .1 part cereal
+    - 0.1 part cereal
     - 1 part milk
   serving: milk container (1.1 parts)
   steps:
