@@ -2,25 +2,16 @@
 ```
 +milk = less strong tea // necessary for spicy teas
 +sugar/honey = more better tea
-straight tea recipe
-   2 tsp tea + 400ml hot water
-   remove tea leaves after 2-3 minutes
-better tea recipe:
-   give tea leaves max room to float (use a tea infuser)
-   2 tsp tea + 300ml hot water
-   remove tea leaves after 1 minute
-   + 1/3 tsp whipped cinnamon honey + (10ml whole milk)?
-cinnamon honey tea recipe:
-   240 ml warm water // NOTE: ideally would be <40°C to preserve the health benefits of honey
-   a tea bag or w/e
-   1 tbsp honey
-   1/2 tsp cinnamon
+tea recipe
+   1 tsp tea + 100ml hot water, OR 2 tsp tea + 200ml hot water
+   remove tea leaves after 90 seconds
 
 recyclability
    S: paper/burnable
    A: paper+plastic
    B: paper+metal
 
+// TODO: redo these with the new tea recipe
 tea                      straight, milk & honey, recyclability
 APOTHEKE ...                    S SS, B
 NOVY DEN Černý čaj s citrónem   S, A, S
