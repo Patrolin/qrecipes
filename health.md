@@ -60,4 +60,5 @@ Steps to improve health:
     - you can skip lunch, which is an easy win
     - probably don't skip dinner?
     - eat honey
+    - use almond milk instead of cow milk
     - excercise helps, though you can do literally anything you want (walking/cycling/playing a physically intersive video game like Beat Saber or Ring Fit Adventure)
