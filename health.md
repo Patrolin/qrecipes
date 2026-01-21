@@ -52,7 +52,9 @@ Steps to improve health:
 
     These all feel quite similar, which makes them hard to tell apart. \
     I recommend checking them in the order listed above (if one doesn't help or makes things worse (sugar), you move onto the next one). \
-    You can also combine multiple into one, like drinking mineral water with pineapple for sugar/water/acidity.
+    You can also combine multiple into one drink, like:
+        mineral water + pineapple for sugar/water/acidity.
+        honey + cinnamon + (unsweetened) almond milk for sugar/water/micronutrients
 8. If you want to lose some weight (also helps improve your mood)
     - you can't skip breakfast, otherwise you won't have energy to do anything
     - you can skip lunch, which is an easy win
