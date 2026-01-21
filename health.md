@@ -40,7 +40,7 @@ Steps to improve health:
     - Na (sodium, DV=2300 mg), Cl (chloride, DV=2300 mg):
         - TODO: figure out which salts have both sodium and chloride
 
-    - easy strat: a low amount of cow milk (15ml) per day + sunlight + a DrWitt (relax) bottle
+    - easy strat: a low amount of cow milk (<15ml) per day + sunlight + a DrWitt (relax) bottle
     - better strat: multivitamin/mineral pill + sunlight
 7. If you have a headache despite following the above steps, it's one of these reasons
     - too much heat
