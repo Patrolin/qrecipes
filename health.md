@@ -48,10 +48,11 @@ Steps to improve health:
     - not enough sugar (eat honey)
     - not enough water
     - not enough blood (get iron from (dark) chocolate or red wine, I prefer non-"nutella"-brand nutella)
-    - not enough salt
+    - not enough salt (salt and something acidic to combat the base)
 
     These all feel quite similar, which makes them hard to tell apart. \
-    I recommend checking them in the order listed above (if one doesn't help or makes things worse (sugar), you move onto the next one).
+    I recommend checking them in the order listed above (if one doesn't help or makes things worse (sugar), you move onto the next one). \
+    You can also combine multiple into one, like drinking mineral water with pineapple for sugar/water/acidity.
 8. If you want to lose some weight (also helps improve your mood)
     - you can't skip breakfast, otherwise you won't have energy to do anything
     - you can skip lunch, which is an easy win
