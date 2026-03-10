@@ -1,16 +1,17 @@
-hot chocolate:
+banana hot chocolate:
   tools:
     - blender
     - saucepan
     - whisk
   inputs:
     - 1 banana
-    - 150 ml almond milk (Alpro Nutty almond)
+    - 150 ml milk or almond milk [Alpro Nutty almond]
     - 100 g chocolate
-    - 15 g sugar
+    - 8 g vanilla sugar
     - a pinch of salt
   serving: 1 mug (≥240ml)
   steps:
     1: Blend the banana and almond milk until smooth.
     2: Strain into a saucepan and add the rest of the ingredients.
-    3: Warm up the saucepan to below boiling (60 - 75°C) and whisk until the chocolate melts.
+    3: Warm up the saucepan to below boiling (60 - 75°C).
+    4: Break up the chocolate into smaller pieces with a whisk until it melts.
