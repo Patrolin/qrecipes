@@ -37,6 +37,7 @@ Steps to improve health:
     | red wine                                                                       |              |               |               |             |            | low       |                | low            |                 |                | low           |               |             |           |
     | honey                                                                          | low          |               |               |             |            |           |                |                |                 |                | low           |               |             |           |
 
+    - TODO: almonds/almond milk
     - TODO: find a mineral water or something for phosphorus and potassium?
 
     - easy strat: a low amount of cow milk (<15ml) per day + sunlight + a DrWitt bottle + iodized salt
