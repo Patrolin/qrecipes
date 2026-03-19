@@ -25,23 +25,22 @@ Steps to improve health:
 
     - vitamins A, C, D, E support the immune system, though all are good to have
 
-    | minerals/100g                                                                  | Ca (calcium) | Cr (chromium) | Cu (copper) | I (iodine) | Fe (iron) | Mg (magnesium) | Mn (manganese) | Mo (molybdenum) | P (phosphorus) | K (potassium) | Se (selenium) | Zn (zinc) |
-    |--------------------------------------------------------------------------------|--------------|---------------|-------------|------------|-----------|----------------|----------------|-----------------|----------------|---------------|---------------|-----------|
-    | <a href="https://en.wikipedia.org/wiki/Reference_Daily_Intake#Minerals">DV</a> | 1300 mg      | ~~35 μg~~     | 0.9 mg      | 150 μg     | 18 mg     | 420 mg         | 2.3 mg         | ~~45 μg~~       | 1250 mg        | 4700 mg       | 55 μg         | 11 mg     |
-    | Spektrum multivitamin pill                                                     | 9%           |               | 111%        |            | 78%       | 24%            | 87%            |                 |                |               | 100%          | 91%       |
-    | almost anything                                                                |              | X             |             |            |           |                |                | X               |                |               |               |           |
-    | cow milk                                                                       | 10%          |               |             | 10%        |           | 2%             |                |                 | 7%             | 3%            | 3%            | 4%        |
-    | DrWitt (any)                                                                   | X            |               |             |            |           |                |                |                 |                | X             |               |           |
-    | (dark) chocolate                                                               |              |               | X           |            | X         | X              | X              |                 |                |               |               |           |
-    | red wine                                                                       |              |               |             |            | low       |                | low            |                 |                | low           |               |           |
-    | honey                                                                          | low          |               |             |            |           |                |                |                 |                | low           |               |           |
+    | minerals/100g                                                                  | Ca (calcium) | Cl (chloride) | Cr (chromium) | Cu (copper) | I (iodine) | Fe (iron) | Mg (magnesium) | Mn (manganese) | Mo (molybdenum) | P (phosphorus) | K (potassium) | Se (selenium) | Na (sodium) | Zn (zinc) |
+    |--------------------------------------------------------------------------------|--------------|---------------|---------------|-------------|------------|-----------|----------------|----------------|-----------------|----------------|---------------|---------------|-------------|-----------|
+    | <a href="https://en.wikipedia.org/wiki/Reference_Daily_Intake#Minerals">DV</a> | 1300 mg      | 2300 mg       | ~~35 μg~~     | 0.9 mg      | 150 μg     | 18 mg     | 420 mg         | 2.3 mg         | ~~45 μg~~       | 1250 mg        | 4700 mg       | 55 μg         | 2300 mg     | 11 mg     |
+    | Spektrum multivitamin pill                                                     | 9%           |               |               | 111%        |            | 78%       | 24%            | 87%            |                 |                |               | 100%          |             | 91%       |
+    | iodized (sea) salt                                                             | low          | X             |               |             | X          |           | low            |                |                 |                | low           |               | X           |           |
+    | almost anything                                                                |              |               | X             |             |            |           |                |                | X               |                |               |               |             |           |
+    | cow milk                                                                       | 10%          |               |               |             | 10%        |           | 2%             |                |                 | 7%             | 3%            | 3%            |             | 4%        |
+    | DrWitt (any)                                                                   | X            |               |               |             |            |           |                |                |                 |                | X             |               |             |           |
+    | (dark) chocolate                                                               |              |               |               | X           |            | X         | X              | X              |                 |                |               |               |             |           |
+    | red wine                                                                       |              |               |               |             |            | low       |                | low            |                 |                | low           |               |             |           |
+    | honey                                                                          | low          |               |               |             |            |           |                |                |                 |                | low           |               |             |           |
 
     - TODO: find a mineral water or something for phosphorus and potassium?
-    - Na (sodium, DV=2300 mg), Cl (chloride, DV=2300 mg):
-        - TODO: figure out which salts have both sodium and chloride
 
-    - easy strat: a low amount of cow milk (<15ml) per day + sunlight + a DrWitt (relax) bottle
-    - better strat: multivitamin/mineral pill + sunlight
+    - easy strat: a low amount of cow milk (<15ml) per day + sunlight + a DrWitt bottle + iodized salt
+    - better strat: multivitamin/mineral pill + sunlight + iodized sea salt
 7. If you have a headache despite following the above steps, it's one of these reasons
     - too much heat
     - not enough heat (low air temperature)
