@@ -1,7 +1,8 @@
 almond milk:
   tools:
     vacuum blender:
-    nut bag:
+    strainer:
+    nut bag OR fine strainer:
   inputs:
     - 1 cup almonds
     - 3-4 cups water
@@ -11,6 +12,7 @@ almond milk:
   longetivity: Store for 3-4 days in a fridge.
   steps:
     1: Soak the almonds in water overnight (for better texture, and less strain on the blender).
-    2: Drain and rinse the almonds.
+    2: Drain and rinse the almonds in a strainer.
+    2.1: Peel the almonds if possible?
     3: Blend everything for 1-2 minutes.
     4: Pour through a nut milk bag or fine strainer.
