@@ -1,0 +1,18 @@
+lemonade:
+  source: https://www.allrecipes.com/recipe/281089/state-fair-lemonade/
+  tools:
+    strainer:
+    pot:
+  inputs:
+    - 1 lemon
+    - 50 g sugar
+    - 150 ml water
+  serving: 1 glass (400 ml)
+  steps:
+    1: Peel the lemon(s) and store them for later.
+    2: Mix the lemon zest and sugar in a bowl.
+    3: Cover the bowl and let it sit for 2 hours.
+    4: Bring water to boiling in a pot and turn off the heat.
+    5: Add the lemon/sugar mixture and mix until the sugar dissolves.
+    6: Pour the mixture through a strainer back into the bowl.
+    7: Cut the lemons in half and squeeze over the strainer.

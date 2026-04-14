@@ -1,0 +1,13 @@
+filter coffee:
+  tools:
+    coffee filter:
+  inputs:
+    - 12g coffee beans
+    - 200 ml water
+  serving: 1 glass (200 ml)
+  steps:
+    1: Start heating water to desired temperature (e.g. 90°C).
+    2: Place coffee filter over glass.
+    3: Grind 12g coffee to desired grind size.
+    4: Add ground coffee to coffee filter.
+    5: Pour hot water through coffee filter (in 50 ml increments)
