@@ -1,5 +1,8 @@
 lemonade:
   source: https://www.allrecipes.com/recipe/281089/state-fair-lemonade/
+  time:
+    prep: 5m
+    waiting: 2h
   tools:
     strainer:
     pot:
