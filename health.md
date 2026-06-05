@@ -1,16 +1,12 @@
 Steps to improve health:
-1. Set temperature to 20-22°C (minimum is 18-24.5°C) - necessary to be able to check anything else
-    - you can check your body temperature by putting your **dry** palm around your (other) **dry** wrist \
-      (it shouldn't feel hot or cold)
-    - TODO: figure out a way to measure air temperature vs room temperature
-2. Remove bits of food/beard hairs that are stuck in your mouth/nose - not doing so causes everything else to fail
-3. Breathe heavily - necessary to be able to check hydration
-    - your body only detects CO<sub>2</sub> levels, not oxygen levels..
-4. Drink water
-5. Eat some sugar - in order to not have a headache
-    - eat 1 tsp honey by itself (temperatures above 38°C destroy enzymes..)
-    - other things could work, but you have to drink a ton of water with them
-6. Take some micronutrients - helps to improve your mood
+1. Remove bits of hair from mouth
+2. Breathe
+3. Drink water
+4. Eat some honey
+5. Breathe
+6. Eat (dark) chocolate
+7. Eat salty snack/drink salty drink
+8. Take a multivitamin/mineral pill
     | vitamins/100g                                                                              | A (retinol/carotenoids) | B1 (thiamine) | B2 (riboflavin) | B3 (niacin) | B5 (pantothenic acid) | B6 (pyridoxine) | B7 (biotin) | B9 (folates) | B12 (cobalamins) | C (ascorbates) | D (calciferols) | E (tocopherols)      | K (not potassium) |
     |--------------------------------------------------------------------------------------------|-------------------------|---------------|-----------------|-------------|-----------------------|-----------------|-------------|--------------|------------------|----------------|-----------------|----------------------|-------------------|
     | <a href="https://en.wikipedia.org/wiki/Reference_Daily_Intake#Vitamins_and_choline">DV</a> | 900 μg                  | 1.2 mg        | 1.3 mg          | 16 mg       | 5 mg                  | 1.7 mg          | 30 μg       | 400 μg       | 2.4 μg           | 90 mg          | 20 μg           | 15 mg (α‑tocopherol) | 120 μg            |
@@ -37,28 +33,7 @@ Steps to improve health:
     | red wine                                                                       |              |               |               |             |            | low       |                | low            |                 |                | low           |               |             |           |
     | honey                                                                          | low          |               |               |             |            |           |                |                |                 |                | low           |               |             |           |
 
-    - TODO: almonds/almond milk
     - TODO: find a mineral water or something for phosphorus and potassium?
 
     - easy strat: a low amount of cow milk (<15ml) per day + sunlight + a DrWitt bottle + iodized salt
     - better strat: multivitamin/mineral pill + sunlight + iodized sea salt
-7. If you have a headache despite following the above steps, it's one of these reasons
-    - too much heat
-    - not enough heat (low air temperature)
-    - not enough sugar (eat honey)
-    - not enough water
-    - not enough blood (get iron from (dark) chocolate or red wine, I prefer non-"nutella"-brand nutella)
-    - not enough salt (salt and something acidic to combat the base)
-
-    These all feel quite similar, which makes them hard to tell apart. \
-    I recommend checking them in the order listed above (if one doesn't help or makes things worse (sugar), you move onto the next one). \
-    You can also combine multiple into one drink, like:
-        mineral water + pineapple for sugar/water/acidity.
-        honey + cinnamon + (unsweetened) almond milk for sugar/water/micronutrients
-8. If you want to lose some weight (also helps improve your mood)
-    - you can't skip breakfast, otherwise you won't have energy to do anything
-    - you can skip lunch, which is an easy win
-    - probably don't skip dinner?
-    - eat honey
-    - use almond milk instead of cow milk
-    - excercise helps, though you can do literally anything you want (walking/cycling/playing a physically intersive video game like Beat Saber or Ring Fit Adventure)
