@@ -6,7 +6,7 @@ Steps to improve health:
 5. Breathe
 6. Eat (dark) chocolate
 7. Eat salty snack/drink salty drink
-8. Take a multivitamin/mineral pill
+8. Take a multivitamin/mineral pill (improves mood)
     | vitamins/100g                                                                              | A (retinol/carotenoids) | B1 (thiamine) | B2 (riboflavin) | B3 (niacin) | B5 (pantothenic acid) | B6 (pyridoxine) | B7 (biotin) | B9 (folates) | B12 (cobalamins) | C (ascorbates) | D (calciferols) | E (tocopherols)      | K (not potassium) |
     |--------------------------------------------------------------------------------------------|-------------------------|---------------|-----------------|-------------|-----------------------|-----------------|-------------|--------------|------------------|----------------|-----------------|----------------------|-------------------|
     | <a href="https://en.wikipedia.org/wiki/Reference_Daily_Intake#Vitamins_and_choline">DV</a> | 900 μg                  | 1.2 mg        | 1.3 mg          | 16 mg       | 5 mg                  | 1.7 mg          | 30 μg       | 400 μg       | 2.4 μg           | 90 mg          | 20 μg           | 15 mg (α‑tocopherol) | 120 μg            |
