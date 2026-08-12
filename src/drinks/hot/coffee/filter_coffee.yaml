@@ -1,7 +1,7 @@
 filter coffee:
   tools:
     coffee filter:
-  inputs:
+  ingredients:
     - 12g coffee beans
     - 200 ml water
   serving: 1 glass (200 ml)

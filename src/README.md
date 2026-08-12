@@ -14,12 +14,10 @@ type Subrecipe = {
   tools: Record<string, string | null>;
   /* NOTE: []input_name_and_amount:
     ["60 ml water", "180 ml whole (4%) milk, or barista oat milk"] */
-  inputs: string[];
-  /* NOTE: []container_name_and_amount:
-    ["2x glass (≥150ml)"] */
-  serving: string[];
-  /* Shelf life of the product (if present) */
-  longetivity?: string;
+  ingredients: string[];
+  /* NOTE: container_amount_and_type:
+    "2x glass (≥150ml)" */
+  serving: string;
   /* NOTE: map[step_number]instruction, can have nested bullet points (may contain syntax errors, like duplicate keys on accident) */
   steps: Record<string, string>;
 }

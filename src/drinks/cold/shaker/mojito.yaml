@@ -1,7 +1,7 @@
 mojito:
   tools:
     bartender set: https://www.youtube.com/watch?v=_UFiGai-8RA
-  inputs:
+  ingredients:
     - 1/2 lime, OR 1/4 lime + any other fruit
     # TODO: honey or sugar?
     - 1 tbsp (cane) sugar
