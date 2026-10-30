@@ -3,10 +3,10 @@
 ## volume
 ```
 1 ml X ≈ 1g X
-1 ml honey ≈ 1.4g honey
- 1 cup = 240 ml
- 1 tsp ≈ 6 ml
-1 tbsp ≈ 18 ml
+  1 ml honey ≈ 1.4g honey
+1 cup = 240 ml
+1 tbsp = 3tsp ≈ 18 ml
+1 tsp ≈ 6 ml
 ```
 
 ## temperature
